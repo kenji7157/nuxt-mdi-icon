@@ -2,7 +2,7 @@
 @font-face {
   font-family: "Material Design Icons";
   src: url("../fonts/materialdesignicons-webfont.eot?v=6.1.95");
-  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=6.1.95") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=6.1.95") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=6.1.95") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=6.1.95") format("truetype");
+  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=6.1.95") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=6.1.95&display=swap") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=6.1.95") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=6.1.95") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
